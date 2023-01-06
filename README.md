@@ -1,7 +1,9 @@
 # Capstone Project IV (OOP) - Shoe Inventory
 This project is named Shoe Inventory System, it is an Object-Oriented Programming project written in Python. This system is used by shoe warehouse manager to mannage the inventory in the warehouse and performing the stock taking.
 ## Table of Contents
-
+- [Installation](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#installation)
+- [Usage](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#usage)
+- [Credit](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#credit)
 ## Installation
 - Open a terminal or command prompt on user's computer
 - Create a working directory, for example 'inventory'
@@ -18,7 +20,7 @@ excute below command
   - [x] Install module prettytable
 
 
-## System Usage
+## Usage
 This section will describe the major functions of the system, when user launched the system, it will display the system logo 'Inventory System' and a number of functions user can select from the system.
 
 ![image](https://user-images.githubusercontent.com/108268967/210894157-24ea78c5-a69b-4e84-b30f-e0ab2ed500f0.png)
