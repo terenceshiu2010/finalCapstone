@@ -2,8 +2,8 @@
 This project is named Shoe Inventory System, it is an Object-Oriented Programming project written in Python. This system is used by shoe warehouse manager to mannage the inventory in the warehouse and performing the stock taking.
 ## Table of Contents
 - [Installation](README.md#installation)
-- [Usage](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#usage)
-- [Credit](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#credit)
+- [Usage](README.md#usage)
+- [Credit](#credit)
 ## Installation
 - Open a terminal or command prompt on user's computer
 - Create a working directory, for example 'inventory'
