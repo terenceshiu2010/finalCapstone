@@ -1,7 +1,7 @@
 # Capstone Project IV (OOP) - Shoe Inventory
 This project is named Shoe Inventory System, it is an Object-Oriented Programming project written in Python. This system is used by shoe warehouse manager to mannage the inventory in the warehouse and performing the stock taking.
 ## Table of Contents
-- [Installation](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#installation)
+- [Installation](README.md#installation)
 - [Usage](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#usage)
 - [Credit](https://github.com/terenceshiu2010/finalCapstone/edit/master/README.md#credit)
 ## Installation
