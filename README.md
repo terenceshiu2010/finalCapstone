@@ -12,7 +12,7 @@ excute below command
   ```
   git clone https://github.com/terenceshiu2010/finalCapstone
   ```
-- it will clone the system files to the currenct directory like below
+- it will clone the system files to the current directory like below
 ![image](https://user-images.githubusercontent.com/108268967/210893073-655f43f9-97ac-40cb-9760-d30fc1b0265a.png)
 - In additional, you have to install below application/module to user's computer in order to make the system working smoothly
   - [x] Install Python 3
@@ -27,7 +27,7 @@ This section will describe the major functions of the system, when user launched
 
 - capture_shoes
 
-  Capture shoe function will allow user to create an new shoe object and add the created shoe object to the shoe list, user need to provide shoe details.
+  Capture shoe function will allow user to create an new shoe object and add the created shoe object to the shoe list, user needs to provide shoe details.
   - [x] country
   - [x] shoe code (uniquely identifier)
   - [x] shoe description
@@ -43,7 +43,7 @@ This section will describe the major functions of the system, when user launched
 
 - re_stock
 
-  Re-Stock function will displays the lowest quantitiy of shoe in the shoe list, allow the user to restock this shoe by adding quantity to this shoe if needed.
+  Re-Stock function will displays the lowest quantitiy of shoe in the shoe list, allow the user to restock the shoe by adding quantity to the shoe if needed.
   ![image](https://user-images.githubusercontent.com/108268967/210895830-142f43d9-f576-4ecd-a5d5-e6fa9d78ca7d.png)
 
 - search_shoe
